@@ -14,5 +14,4 @@ Este projeto é o site do filme **Barbie** em  _HTML_ e _CSS_.
 
 - HTML
 - CSS
-- [AOS Animate](https://michalsnik.github.io/aos/)
 
